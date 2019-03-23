@@ -1,0 +1,339 @@
+[
+  {
+    "featured": false,
+    "tags": [],
+    "_id": "5c95046036e672001743d5b4",
+    "author": "Hytale Team",
+    "title": "Three new pieces of Hytale music",
+    "publishedAt": "2019-03-22T18:30:00.000Z",
+    "coverImage": {
+      "variants": ["blog_thumb", "blog_cover"],
+      "_id": "5c95016a36e672001743d5b2",
+      "s3Key": "5c95016a36e672001743d5b2_new_music_header.jpg",
+      "mimeType": "image/jpeg",
+      "attached": true,
+      "contentType": "BlogPost",
+      "contentId": "5c95046036e672001743d5b4",
+      "createdAt": "2019-03-22T15:38:19.835Z",
+      "__v": 5
+    },
+    "createdAt": "2019-03-22T15:50:56.511Z",
+    "slug": "three-new-pieces-of-hytale-music",
+    "bodyExcerpt": "Music plays a vital role in establishing the mood for your adventures across the world of Orbis. Over the last couple of months, we’ve provided a few opportunities to sample Hytale’s soundtrack. Back in January, we released two full tracks - Traveling Band and Night on the Dunes - which ..."
+  }, {
+    "featured": false,
+    "tags": [],
+    "_id": "5c829ca636e672001743d5ab",
+    "author": "Hytale Team",
+    "title": "Building with blocks in Hytale",
+    "publishedAt": "2019-03-08T18:40:00.000Z",
+    "coverImage": {
+      "variants": ["blog_thumb", "blog_cover"],
+      "_id": "5c829ba736e672001743d59e",
+      "s3Key": "5c829ba736e672001743d59e_building_blocks_header.jpg",
+      "mimeType": "image/jpeg",
+      "attached": true,
+      "contentType": "BlogPost",
+      "contentId": "5c829ca636e672001743d5ab",
+      "createdAt": "2019-03-08T16:43:20.990Z",
+      "__v": 27
+    },
+    "createdAt": "2019-03-08T16:47:34.518Z",
+    "slug": "building-with-blocks-in-hytale",
+    "bodyExcerpt": "It’s important to us that Hytale players have all the tools they need in order to bring their ideas to life. We’ve already covered Hytale Model Maker, which allows players to create their own models and import them directly into the game. In this post we’re going to focus on ..."
+  }, {
+    "featured": false,
+    "tags": [],
+    "_id": "5c79a40236e672001743d58e",
+    "author": "Hytale Team",
+    "title": "A peek at some of zone 1's wildlife",
+    "publishedAt": "2019-03-01T22:20:00.000Z",
+    "coverImage": {
+      "variants": ["blog_thumb", "blog_cover"],
+      "_id": "5c79a19a36e672001743d58a",
+      "s3Key": "5c79a19a36e672001743d58a_zone1wildlife_header.jpg",
+      "mimeType": "image/jpeg",
+      "attached": true,
+      "contentType": "BlogPost",
+      "contentId": "5c79a40236e672001743d58e",
+      "createdAt": "2019-03-01T21:18:19.554Z",
+      "__v": 9
+    },
+    "createdAt": "2019-03-01T21:28:34.012Z",
+    "slug": "a-peek-at-some-of-zone-1-s-wildlife",
+    "bodyExcerpt": "As we wrote in our worldgen introduction back in January, each zone in Hytale’s adventure mode features its own unique elements, including geology, plants, NPCs, monsters, and animal life. In this post, we’re going to give you a closer look at some of the creatures that you’ll encounter in the ..."
+  }, {
+    "featured": false,
+    "tags": [],
+    "_id": "5c70354c13d0890017efc5e0",
+    "author": "Hytale Team",
+    "title": "Hytale Fan Art Showcase vol. 1",
+    "publishedAt": "2019-02-22T20:50:00.000Z",
+    "coverImage": {
+      "variants": ["blog_thumb", "blog_cover"],
+      "_id": "5c81385836e672001743d591",
+      "s3Key": "5c81385836e672001743d591_fan_art_showcase_1_header_new.jpg",
+      "mimeType": "image/jpeg",
+      "attached": true,
+      "contentType": "BlogPost",
+      "contentId": "5c70354c13d0890017efc5e0",
+      "createdAt": "2019-03-07T15:27:22.150Z",
+      "__v": 3
+    },
+    "createdAt": "2019-02-22T17:45:48.931Z",
+    "slug": "hytale-fan-art-showcase-vol-1",
+    "bodyExcerpt": "It's hard to believe that it's only been two months since we announced Hytale. We've been blown away by the attention that the game has received. After three years of working on the game in secret, every tweet, article, and video means a lot to us.It's been particularly exciting to ..."
+  }, {
+    "featured": false,
+    "tags": [],
+    "_id": "5c671feefc50f90012d9521b",
+    "author": "Hytale Team",
+    "title": "Customizing your character in Hytale",
+    "publishedAt": "2019-02-15T21:10:00.000Z",
+    "coverImage": {
+      "variants": ["blog_thumb", "blog_cover"],
+      "_id": "5c672809fc50f90012d9521e",
+      "s3Key": "5c672809fc50f90012d9521e_character_customization_header_2.jpg",
+      "mimeType": "image/jpeg",
+      "attached": true,
+      "contentType": "BlogPost",
+      "contentId": "5c671feefc50f90012d9521b",
+      "createdAt": "2019-02-15T20:58:50.993Z",
+      "__v": 15
+    },
+    "createdAt": "2019-02-15T20:24:14.508Z",
+    "slug": "customizing-your-character-in-hytale",
+    "bodyExcerpt": "Hytale provides players with the power to customize their character in a wide variety of ways. Whether you’re ransacking a dungeon in adventure mode or taking on other players in a minigame, your avatar provides an opportunity to express yourself. In this article, we’re going to provide an overview of ..."
+  }, {
+    "featured": false,
+    "tags": [],
+    "_id": "5c5dc3e4f69b310012f21757",
+    "author": "Hytale Team",
+    "title": "Exploring Hytale’s block tech",
+    "publishedAt": "2019-02-08T19:00:00.000Z",
+    "coverImage": {
+      "variants": ["blog_thumb", "blog_cover"],
+      "_id": "5c5dc292f69b310012f21747",
+      "s3Key": "5c5dc292f69b310012f21747_feb_08___block_tech_header.jpg",
+      "mimeType": "image/jpeg",
+      "attached": true,
+      "contentType": "BlogPost",
+      "contentId": "5c5dc3e4f69b310012f21757",
+      "createdAt": "2019-02-08T17:55:32.454Z",
+      "__v": 9
+    },
+    "createdAt": "2019-02-08T18:01:08.501Z",
+    "slug": "exploring-hytale-s-block-tech",
+    "bodyExcerpt": "If you’ve watched the Hytale announcement trailer or taken a look at our media section, you’ll have seen plenty of landscapes and prefabs - and each of them has been built with blocks. Today we’re going to explain the features and techniques that make Hytale blocks special, and how you’ll ..."
+  }, {
+    "featured": false,
+    "tags": [],
+    "_id": "5c547ebaf69b310012f21744",
+    "author": "Hytale Team",
+    "title": "Key art showcase",
+    "publishedAt": "2019-02-01T21:30:00.000Z",
+    "coverImage": {
+      "variants": ["blog_thumb", "blog_cover"],
+      "_id": "5c547e01f69b310012f21742",
+      "s3Key": "5c547e01f69b310012f21742_art_showcase_header_draft_3_feb_01.jpg",
+      "mimeType": "image/jpeg",
+      "attached": true,
+      "contentType": "BlogPost",
+      "contentId": "5c547ebaf69b310012f21744",
+      "createdAt": "2019-02-01T17:12:34.685Z",
+      "__v": 9
+    },
+    "createdAt": "2019-02-01T17:15:38.594Z",
+    "slug": "key-art-showcase",
+    "bodyExcerpt": "In this post, we’re going to be taking a closer look at three pieces of Hytale key art - the kind of thing you might find used for posters or wallpapers. Artist Thomas ‘Xael’ Frick created each of these images to express the personality of locations and characters that you’ll ..."
+  }, {
+    "featured": false,
+    "tags": [],
+    "_id": "5c4b6072f69b310012f21741",
+    "author": "Hytale Team",
+    "title": "An overview of Hytale’s server technology",
+    "publishedAt": "2019-01-25T19:00:00.000Z",
+    "coverImage": {
+      "variants": ["blog_thumb", "blog_cover"],
+      "_id": "5c4b5d1ef69b310012f2173d",
+      "s3Key": "5c4b5d1ef69b310012f2173d_server_header.jpg",
+      "mimeType": "image/jpeg",
+      "attached": true,
+      "contentType": "BlogPost",
+      "contentId": "5c4b6072f69b310012f21741",
+      "createdAt": "2019-01-25T19:01:52.021Z",
+      "__v": 31
+    },
+    "createdAt": "2019-01-25T19:16:02.316Z",
+    "slug": "an-overview-of-hytales-server-technology",
+    "bodyExcerpt": "In this article, we’re going to introduce the technology that underpins every Hytale server - both how they work and how you’ll interact with them. In order to do so we’ll need to use some technical language, but we hope that you’ll be excited by the work we’re doing to ..."
+  }, {
+    "featured": false,
+    "tags": [],
+    "_id": "5c42381e360f370012c6de65",
+    "author": "Hytale Team",
+    "title": "Take a closer look at Hytale Model Maker",
+    "publishedAt": "2019-01-18T20:33:00.000Z",
+    "coverImage": {
+      "variants": ["blog_thumb", "blog_cover"],
+      "_id": "5c42380f360f370012c6de63",
+      "s3Key": "5c42380f360f370012c6de63_hmm_blog_header_2.jpg",
+      "mimeType": "image/jpeg",
+      "attached": true,
+      "contentType": "BlogPost",
+      "contentId": "5c42381e360f370012c6de65",
+      "createdAt": "2019-01-18T20:33:20.644Z",
+      "__v": 11
+    },
+    "createdAt": "2019-01-18T20:33:34.004Z",
+    "slug": "take-a-closer-look-at-hytale-model-maker",
+    "bodyExcerpt": "In this post, we're going to give you a closer look at the Hytale Model Maker - the browser and app-based modeling, texturing, and animation toolkit that comes with Hytale. You may have caught a glimpse of it already in the announcement trailer or read about it on the game ..."
+  }, {
+    "featured": false,
+    "tags": [],
+    "_id": "5c3bb746c2188700121c02da",
+    "author": "Hytale Team",
+    "title": "Music track preview, looking back at the announcement, and an FAQ update!",
+    "publishedAt": "2019-01-13T22:05:00.000Z",
+    "coverImage": {
+      "variants": ["blog_thumb", "blog_cover"],
+      "_id": "5c3bb641c2188700121c02d8",
+      "s3Key": "5c3bb641c2188700121c02d8_musicandfaqartwork.png",
+      "mimeType": "image/png",
+      "attached": true,
+      "contentType": "BlogPost",
+      "contentId": "5c3bb746c2188700121c02da",
+      "createdAt": "2019-01-13T22:05:54.979Z",
+      "__v": 17
+    },
+    "createdAt": "2019-01-13T22:10:14.417Z",
+    "slug": "music-track-preview-looking-back-at-the-announcement-and-an-faq-update",
+    "bodyExcerpt": "Hey all! As of today, it’s been exactly a month since the Hytale trailer unveil. As such, it feels appropriate to cast an eye over the last month and address some of the most common questions we’ve received.Before we get to that, we’d like to give you a further taste ..."
+  }, {
+    "featured": false,
+    "tags": [],
+    "_id": "5c2fd27277b784001878475d",
+    "author": "Hytale Team",
+    "title": "Worldgen Introduction",
+    "publishedAt": "2019-01-04T21:38:00.000Z",
+    "coverImage": {
+      "variants": ["blog_thumb", "blog_cover"],
+      "_id": "5c2fc72077b784001878472f",
+      "s3Key": "5c2fc72077b784001878472f_cover.jpg",
+      "mimeType": "image/jpeg",
+      "attached": true,
+      "contentType": "BlogPost",
+      "contentId": "5c2fd27277b784001878475d",
+      "createdAt": "2019-01-04T20:50:42.026Z",
+      "__v": 21
+    },
+    "createdAt": "2019-01-04T21:38:58.420Z",
+    "slug": "worldgen-introduction",
+    "bodyExcerpt": "Today we're going to provide a first look at Hytale's world generation system: the technology that underpins every area you'll explore as you progress through adventure mode. As you might expect, there's a lot to cover - so let's get to it!First, however, a quick note: in order to focus ..."
+  }, {
+    "featured": false,
+    "tags": [],
+    "_id": "5c1bc350d621950018ca072b",
+    "author": "Hytale Team",
+    "title": "Happy holidays from the Hytale team!",
+    "publishedAt": "2018-12-20T16:28:00.000Z",
+    "coverImage": {
+      "variants": ["blog_thumb", "blog_cover"],
+      "_id": "5c1bc324d621950018ca0727",
+      "s3Key": "5c1bc324d621950018ca0727_holidays_header.jpg",
+      "mimeType": "image/jpeg",
+      "attached": true,
+      "contentType": "BlogPost",
+      "contentId": "5c1bc350d621950018ca072b",
+      "createdAt": "2018-12-20T16:28:21.235Z",
+      "__v": 9
+    },
+    "createdAt": "2018-12-20T16:29:04.265Z",
+    "slug": "happy-holidays-from-the-hytale-team",
+    "bodyExcerpt": "This has been an incredible week for the entire Hytale team. As we publish this, the Hytale announcement trailer has been viewed more than 11 million times - a number that far exceeds our wildest expectations!We can't thank the gaming community enough for all of the amazing support we’ve received ..."
+  }, {
+    "featured": true,
+    "tags": [],
+    "_id": "5c116fb3a8abd90012df9418",
+    "author": "Hytale Team",
+    "title": "The Hytale FAQ: December 13th 2018",
+    "publishedAt": "2018-12-13T13:15:00.000Z",
+    "coverImage": {
+      "variants": ["blog_thumb", "blog_cover"],
+      "_id": "5c12469bea48e600136fd6b6",
+      "s3Key": "5c12469bea48e600136fd6b6_faq_post_header.jpg",
+      "mimeType": "image/jpeg",
+      "attached": true,
+      "contentType": "BlogPost",
+      "contentId": "5c116fb3a8abd90012df9418",
+      "createdAt": "2018-12-13T11:46:35.771Z",
+      "__v": 23
+    },
+    "createdAt": "2018-12-12T20:29:39.613Z",
+    "slug": "hytale-faq",
+    "bodyExcerpt": "We&rsquo;ve just unleashed a hurricane of information about Hytale, so it&rsquo;s natural that you might have some questions. Below, you&rsquo;ll find an extensive FAQ covering many important topics, including an extra FAQ aimed squarely at content creators.<br> General FAQ<br> <br> When is Hytale coming out?<br> <br> This date is still to be ..."
+  }, {
+    "featured": true,
+    "tags": [],
+    "_id": "5c116f33a8abd90012df9415",
+    "author": "Simon and Rezzus",
+    "title": "Welcome to Hypixel Studios",
+    "publishedAt": "2018-12-13T13:10:00.000Z",
+    "coverImage": {
+      "variants": ["blog_thumb", "blog_cover"],
+      "_id": "5c1246b5ea48e600136fd6b8",
+      "s3Key": "5c1246b5ea48e600136fd6b8_welcome_header.jpg",
+      "mimeType": "image/jpeg",
+      "attached": true,
+      "contentType": "BlogPost",
+      "contentId": "5c116f33a8abd90012df9415",
+      "createdAt": "2018-12-13T11:47:02.095Z",
+      "__v": 21
+    },
+    "createdAt": "2018-12-12T20:27:31.798Z",
+    "slug": "simon-and-rezzus",
+    "bodyExcerpt": "This is a really exciting day for us for two reasons. We&rsquo;re not just announcing a game - we&rsquo;re also taking a major step forward in our journey as game developers.<br> Hypixel started as just the two of us making Minecraft maps. We would spend endless hours cobbling our creations ..."
+  }, {
+    "featured": true,
+    "tags": [],
+    "_id": "5c116e1ea8abd90012df9410",
+    "author": "Hytale Team",
+    "title": "Get to know Hytale’s NPCs",
+    "publishedAt": "2018-12-13T13:05:00.000Z",
+    "coverImage": {
+      "variants": ["blog_thumb", "blog_cover"],
+      "_id": "5c125b98ea48e600136fd6be",
+      "s3Key": "5c125b98ea48e600136fd6be_npcs__1_.png",
+      "mimeType": "image/png",
+      "attached": true,
+      "contentType": "BlogPost",
+      "contentId": "5c116e1ea8abd90012df9410",
+      "createdAt": "2018-12-13T13:16:08.734Z",
+      "__v": 17
+    },
+    "createdAt": "2018-12-12T20:22:54.293Z",
+    "slug": "get-to-know-hytale-s-npcs",
+    "bodyExcerpt": "Our first look trailer has given you a glimpse of some of the hostile and friendly creatures that you&rsquo;ll encounter in Hytale&rsquo;s adventure mode, but in this article we&rsquo;re going to dive a bit deeper. Below, you&rsquo;ll find information on a number of creature types, and we&rsquo;re going to use ..."
+  }, {
+    "featured": true,
+    "tags": [],
+    "_id": "5c1164b9a8abd90012df93ee",
+    "author": "Hytale Team",
+    "title": "A sneak peek at Hytale’s user interface",
+    "publishedAt": "2018-12-13T13:00:00.000Z",
+    "coverImage": {
+      "variants": ["blog_thumb", "blog_cover"],
+      "_id": "5c1246dfea48e600136fd6bc",
+      "s3Key": "5c1246dfea48e600136fd6bc_ui_post_header.jpg",
+      "mimeType": "image/jpeg",
+      "attached": true,
+      "contentType": "BlogPost",
+      "contentId": "5c1164b9a8abd90012df93ee",
+      "createdAt": "2018-12-13T11:47:43.368Z",
+      "__v": 11
+    },
+    "createdAt": "2018-12-12T19:42:49.933Z",
+    "slug": "a-sneak-peek-at-hytale-s-user-interface",
+    "bodyExcerpt": "We&rsquo;ve been working on Hytale for several years, and today we finally revealed the whole scope of the project. While we made a choice not to show too much of Hytale&rsquo;s interface in the trailer, we want to take this opportunity to show what we&rsquo;ve been working on behind the ..."
+  }
+]
